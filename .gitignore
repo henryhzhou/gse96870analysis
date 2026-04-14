@@ -1,0 +1,9 @@
+work/
+.nextflow/
+.nextflow.log*
+*.o[0-9]*
+*.e[0-9]*
+__pycache__/
+*.so
+*.c
+build/
